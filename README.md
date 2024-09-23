@@ -12,6 +12,6 @@ This are my own created projects while learning Web-Development Languages that a
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <a href:"https://github.com/BOLLOJU-VISWA/Capstone-Projects-WebDevelopment/tree/main/01.My-Resume">Capstone Projct -1</a>
+  <a href:"./01.My-Resume/">Capstone Projct -1</a>
 </body>
 </html>
